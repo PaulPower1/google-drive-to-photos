@@ -1,0 +1,34 @@
+# Environment and Auth
+.env
+.env.local
+.env.*.local
+token.pickle
+token_*.pickle
+*.pickle
+
+# Output directory (contains user-specific data)
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.Python
+venv/
+env/
+.venv/
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
